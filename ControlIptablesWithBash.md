@@ -1,6 +1,4 @@
 # IPtables的bash命令  
-===  
-
 ## iptables的规则  
 ---  
 通和堵（包含转发）
